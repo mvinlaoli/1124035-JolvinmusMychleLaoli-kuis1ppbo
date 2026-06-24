@@ -1,5 +1,4 @@
 package pemogramanobjectorientation.kuis1pbo.utility;
-import pemogramanobjectorientation.kuis1pbo.enums.JenisKendaraan;
 import pemogramanobjectorientation.kuis1pbo.model.Helikopter;
 import pemogramanobjectorientation.kuis1pbo.model.Kapal;
 import pemogramanobjectorientation.kuis1pbo.model.Kendaraan;

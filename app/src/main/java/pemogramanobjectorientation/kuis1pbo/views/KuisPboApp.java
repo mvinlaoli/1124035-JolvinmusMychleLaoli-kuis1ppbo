@@ -51,10 +51,11 @@ public class KuisPboApp {
                     System.out.println(k.getPrintDetail());
                 }
             }
-            Kendaraan tipe = null;
+            
+           
+            
         
-        
-        switch () {
+        switch (tipe) {
             case 1:
                 System.out.print("Masukkan nomor polisi: ");
                 String nomorPolisiMotor = sc.nextLine();
@@ -113,5 +114,6 @@ public class KuisPboApp {
         sc.nextLine();
 
     }
+
 
 }
